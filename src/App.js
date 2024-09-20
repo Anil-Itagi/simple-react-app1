@@ -9,6 +9,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>This is Simple react app</h1>
       <h1>{message}</h1>
       <button onClick={handleClick}>Click Me!</button>
     </div>
